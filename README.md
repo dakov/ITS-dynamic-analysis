@@ -7,6 +7,6 @@ Synopsis:
 ---------
 tracer [-x trace.xml | -p trace.pl] /path/to/command [args]
 
--x: výstup ve formátu XML
+-x: výstup ve formátu XML 
 
 -p: výstup ve formátu databáze jazyka Prolog
